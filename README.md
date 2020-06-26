@@ -1,4 +1,4 @@
-# AbirCloner
+# Abir
 apt update && apt upgrade -y
 
 pkg install python && pkg install python2 -y
